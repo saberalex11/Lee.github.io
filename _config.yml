@@ -102,6 +102,6 @@ friends: [
     {
         title: "java进阶",
         href: "http://granbluefantasy.jp/",
-        _target: "blank"
+        target: "_blank"
     }
 ]
