@@ -100,7 +100,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GBF",
-        href: "http://granbluefantasy.jp/"
+        title: "java进阶",
+        href: "http://granbluefantasy.jp/",
+        _target: "blank"
     }
 ]
