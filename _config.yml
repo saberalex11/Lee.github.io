@@ -101,7 +101,6 @@ service-worker: true
 friends: [
     {
         title: "java进阶",
-        href: "http://granbluefantasy.jp/",
-        target: "_blank"
+        href: "http://granbluefantasy.jp/"
     }
 ]
