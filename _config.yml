@@ -100,7 +100,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "java进阶",
+        title: "java高级进阶",
         href: "http://granbluefantasy.jp/"
     }
 ]
